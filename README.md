@@ -15,9 +15,14 @@ Hi, I’m Yullia Blahovistna! I’m a passionate data scientist and frontend dev
 
 I also enjoy sharing my knowledge through writing and blogging. Here are some of my latest posts:
 
-- 📝 [Sales Prediction with Machine Learning](https://medium.com/@silentBob/getting-started-with-web-automation) -Building a predictive model for e-commerce.
+- 📝 [Wine Quality Analysis and Classification](https://github.com/YuliiaB82/Data-Science/blob/master/HW07/wine.ipynb) -Built a machine learning model using Decision Trees and Random Forests to predict wine quality based on physicochemical features.
+- 🚲 [ Bike Rental Demand Prediction ](https://github.com/YuliiaB82/Data-Science/blob/master/HW09/regression_bikes.ipynb) -Applied linear regression and decision tree regression to forecast daily bike rental counts based on weather and seasonal data.
+- 📈 [Support Vector Machine Classification](https://github.com/YuliiaB82/Data-Science/blob/master/HW10/support_vector_method.ipynb) - Implemented Support Vector Machines (SVM) to classify data and explore the impact of kernel functions on model performance.
+- 🏀 [Basketball Stats Analysis ](https://github.com/YuliiaB82/Data-Science/blob/master/hw04/Basketball.ipynb) - Performed data cleaning, visualization, and statistical analysis on basketball player performance metrics.
+- 📈 [Support Vector Machine Classification](https://github.com/YuliiaB82/Data-Science/blob/master/HW10/support_vector_method.ipynb) - Implemented Support Vector Machines (SVM) to classify data and explore the impact of kernel functions on model performance.
+- 🌲 [ Random Forest Classification](https://github.com/YuliiaB82/Data-Science/blob/master/HW11/RandomForest.ipynb) - Used the Random Forest algorithm for classification tasks, focusing on feature importance and model accuracy.
 - 🎵 [Website with Online Radio](https://medium.com/@silentBob/building-scalable-web-applications) - Developed a web platform integrating live streaming radio.
-- 🗒️ [Data Visualization with Python](https://medium.com/@silentBob/data-visualization-with-python) - Exploring the power of data visualization using Python libraries.
+
 
 ## 📫 Connect with Me
 
