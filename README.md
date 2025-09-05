@@ -1,7 +1,7 @@
-# YulliaB82
+# YuliiaBlahov
 ## About Me 😄
 
-Hi, I’m Yullia Blahovistna! I’m a passionate data scientist and frontend developer with a strong foundation in machine learning, data analysis, and web development. My background combines technical expertise with 10 years of entrepreneurial experience, allowing me to approach problem-solving with both analytical and creative perspectives. My journey in tech spans web development, automation, and data analysis. I’m always excited to learn new technologies and collaborate on exciting projects.
+Hi, I’m Yuliia Blahovistna! I’m a passionate data scientist and frontend developer with a strong foundation in machine learning, data analysis, and web development. My background combines technical expertise with 10 years of entrepreneurial experience, allowing me to approach problem-solving with both analytical and creative perspectives. My journey in tech spans web development, automation, and data analysis. I’m always excited to learn new technologies and collaborate on exciting projects.
 
 
 
