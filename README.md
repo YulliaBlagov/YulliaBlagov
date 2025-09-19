@@ -21,7 +21,7 @@ I also enjoy sharing my knowledge through writing and blogging. Here are some of
 - 🏀 [Basketball Stats Analysis ](https://github.com/YuliiaB82/Data-Science/blob/master/hw04/Basketball.ipynb) - Performed data cleaning, visualization, and statistical analysis on basketball player performance metrics.
 - 📈 [Support Vector Machine Classification](https://github.com/YuliiaB82/Data-Science/blob/master/HW10/support_vector_method.ipynb) - Implemented Support Vector Machines (SVM) to classify data and explore the impact of kernel functions on model performance.
 - 🌲 [ Random Forest Classification](https://github.com/YuliiaB82/Data-Science/blob/master/HW11/RandomForest.ipynb) - Used the Random Forest algorithm for classification tasks, focusing on feature importance and model accuracy.
-- 🎵 [Website with Online Radio](https://medium.com/@silentBob/building-scalable-web-applications) - Developed a web platform integrating live streaming radio.
+- 🎵 [Website with Online Radio](https://github.com/YuBlagov/mood-radio) - Developed a web platform integrating live streaming radio.
 
 
 ## 📫 Connect with Me
